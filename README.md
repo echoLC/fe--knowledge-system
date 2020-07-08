@@ -11,7 +11,7 @@
 
 1.[TLS/SSL概述](./HTTP/tsl-protocol-intro.md)
 
-2.[HTTP1.0 vs HTTP1.1 vs HTTP2.0 vs HTTP3.0](./HTTP/http-all-kind-of-version-compare.md)
+2.[从HTTP版本更新看它的发展史](./HTTP/http-all-kind-of-version-compare.md)
 
 3.[HTTP状态码详解](./HTTP/http-statusCode-intro.md)
 
