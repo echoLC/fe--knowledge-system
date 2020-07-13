@@ -19,11 +19,9 @@
 
 5.[HTTP缓存](./HTTP/http-cache-intro.md)
 
-6.[跨域](./HTTP/cross-origin-intro.md)
+6.[详解从浏览器输入URL到页面出现的整个过程](./HTTP/dive-into-page-render-process-when-input-url-for-browser.md)
 
-7.[详解从浏览器输入URL到页面出现的整个过程](./HTTP/dive-into-page-render-process-when-input-url-for-browser.md)
-
-8.[cookie详解](./HTTP/cookie-intro.md)
+7.[cookie详解](./HTTP/cookie-intro.md)
 
 ## 数据结构与算法
 
