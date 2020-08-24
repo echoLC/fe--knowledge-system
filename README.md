@@ -25,6 +25,8 @@
 
 ## 数据结构与算法
 1.[双指针](./algorithm/twin-pointer.md)
+1.[动态规划](./algorithm/dynamic-programming.md)
+
 
 ## TODO
 - [ ] HTML
